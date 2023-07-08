@@ -1,0 +1,14 @@
+.h{
+    font-size: 23px;
+}
+.p{
+    font-size: 11px;
+}
+.img{
+    border: 2px solid #eee;
+    border-radius: 9px;
+    padding: 8px;
+}
+hr{
+    color: aqua;
+}

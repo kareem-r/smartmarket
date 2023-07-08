@@ -1,0 +1,45 @@
+.search::placeholder {
+  text-align: end;
+  margin-right: -25px;
+}
+input {
+  outline: none;
+  border: none;
+  border-bottom: 1px solid white;
+}
+
+.searchtext {
+  text-align: end;
+  height: 20px;
+  width: 90%;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    position: relative;
+    top: 45px;
+    color: #282828;
+font-family: El Messiri;
+font-size: 15px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+@media(max-width:1200px){
+  .searchtext{
+    margin-right: 122px;
+  }
+}
+@media(max-width:992px){
+  .searchtext{
+    margin-right: 95px;
+  }
+}
+@media(max-width:768px){
+  .searchtext{
+    margin-right: 78px;
+  }
+}
+@media(max-width:600px){
+  .searchtext{
+    margin-right: 68px;
+  }
+}

@@ -1,0 +1,45 @@
+.deduct .container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.deduct .container .left {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background: #FFDBDF;
+  width: 598.404px;
+  height: 325px;
+  border-radius: 14px;
+}
+.deduct .container .left .text a {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 2px solid #7FD3DF;
+}
+.deduct .container .left .image img {
+  width: 465px;
+  height: 327px;
+  flex-shrink: 0;
+}
+.deduct .container .right {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  background: #D6F7FE;
+  width: 598.404px;
+  height: 325px;
+  border-radius: 14px;
+}
+.deduct .container .right .text a {
+  text-decoration: none;
+  color: #000;
+  border-bottom: 2px solid #7FD3DF;
+}
+.deduct .container .right .image img {
+  width: 312px;
+  height: 317px;
+  flex-shrink: 0;
+}/*# sourceMappingURL=deduct.css.map */

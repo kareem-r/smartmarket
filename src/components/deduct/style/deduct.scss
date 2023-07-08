@@ -1,0 +1,59 @@
+.deduct{
+    .container{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    .left{
+        .textt{
+            a{
+ text-decoration:none;
+            color:#000;
+            border-bottom:2px solid #7FD3DF;
+
+            }}
+            .image{
+                img{
+                    width: 322px;
+height: 327px;
+flex-shrink: 0;
+                }
+            }
+        display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background: #FFDBDF;
+    width: 598.404px;
+    height: 325px;
+    border-radius: 14px;
+
+    }
+    .right{
+        .textt{
+            a{
+ text-decoration:none;
+            color:#000;
+            border-bottom:2px solid #7FD3DF;
+
+            }}
+            .image{
+                img{
+                    width: 312px;
+height: 317px;
+flex-shrink: 0;
+
+                }
+            }
+        display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    background: #D6F7FE;
+    width: 598.404px;
+    height: 325px;
+    border-radius: 14px;
+    }
+}
+
+}
+

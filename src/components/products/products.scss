@@ -1,0 +1,22 @@
+.products{
+    padding-top:20px ;
+    text-align: center;
+    
+        .te::after {
+            content: "";
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            height: 2px;
+            background-color: #7FD3DF;
+            border-radius: 10px;
+            width: 100px;
+        }
+        .te{
+            h3{
+                font-size: 20px;
+            }
+        }
+        
+    
+}
