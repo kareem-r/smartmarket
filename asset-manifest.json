@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/smartmarket/static/css/main.3a6dacd9.css",
+    "main.js": "/smartmarket/static/js/main.d96487ab.js",
+    "static/js/787.5178ba48.chunk.js": "/smartmarket/static/js/787.5178ba48.chunk.js",
+    "static/media/favicon.ico": "/smartmarket/static/media/favicon.16d22378aef6272a2a71.ico",
+    "index.html": "/smartmarket/index.html",
+    "main.3a6dacd9.css.map": "/smartmarket/static/css/main.3a6dacd9.css.map",
+    "main.d96487ab.js.map": "/smartmarket/static/js/main.d96487ab.js.map",
+    "787.5178ba48.chunk.js.map": "/smartmarket/static/js/787.5178ba48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3a6dacd9.css",
+    "static/js/main.d96487ab.js"
+  ]
+}
